@@ -1,4 +1,3 @@
-package lab03_b_for;
 import java.util.*;
 
 /**
