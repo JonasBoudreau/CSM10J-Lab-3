@@ -1,4 +1,3 @@
-package lab03_b_dowhile;
 import java.util.*;
 
 /**
